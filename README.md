@@ -1,13 +1,29 @@
-# Integrantes del grupo
+# COMPETENCIA AI4ENG UDEA - Semestre 2025-2
 
-- *Nombre completo:* Fernando José Sierra Vanegas  
-  *Cédula:* 1192920363  
-  *Carrera:* Ingeniería Sanitaria  
+## **Entrega 1**
 
-- *Nombre completo:* Andrés Felipe Villegas Villegas  
-  *Cédula:* 1007121542  
-  *Carrera:* Ingeniería Sanitaria  
+#### Contenido del repositorio
+- `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
 
-- *Nombre completo:* Isabel Hernández Loaiza  
-  *Cédula:* 1152716029  
-  *Carrera:* Bioingeniería
+#### Integrantes del grupo
+- **Nombre completo:** Fernando José Sierra Vanegas  
+  **Cédula:** 1192920363  
+  **Carrera:** Ingeniería Sanitaria  
+
+- **Nombre completo:** Andrés Felipe Villegas Villegas  
+  **Cédula:** 1007121542  
+  **Carrera:** Ingeniería Sanitaria  
+
+- **Nombre completo:** Isabel Hernández Loaiza  
+  **Cédula:** 1152716029  
+  **Carrera:** Bioingeniería
+
+  
+
+## **Entrega 2**
+
+#### Contenido del repositorio
+- `02 - preprocesado.ipynb` — Limpieza y preprocesamiento de `train.csv`
+
+#### Enlace al vídeo (Entrega 2)
+- Video en YouTube: **xxx**
