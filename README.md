@@ -14,7 +14,7 @@
   **Carrera:** Bioingeniería
 
   
-  ## **Entrega 1**
+## **Entrega 1**
 
 - `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
 
