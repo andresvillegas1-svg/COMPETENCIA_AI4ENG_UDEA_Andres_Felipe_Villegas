@@ -2,7 +2,6 @@
 
 ## **Entrega 1**
 
-#### Contenido del repositorio
 - `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
 
 #### Integrantes del grupo
@@ -22,7 +21,6 @@
 
 ## **Entrega 2**
 
-#### Contenido del repositorio
 - `02 - preprocesado.ipynb` — Limpieza y preprocesamiento de `train.csv`
 
 #### Enlace al vídeo (Entrega 2)
