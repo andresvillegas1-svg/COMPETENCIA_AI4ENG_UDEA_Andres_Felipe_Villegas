@@ -32,5 +32,5 @@
 -  99 - modelo solución.ipynb - Notebook final que genera la solución oficial enviada a Kaggle.
 
 #### Enlace al vídeo (Entrega 3)
-- Video en YouTube: 
+- Video en YouTube: https://www.youtube.com/watch?v=U08jOc7vIVI
  
