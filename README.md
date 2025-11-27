@@ -16,12 +16,21 @@
   
 ## **Entrega 1**
 
-- `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
+- 01 - exploración.ipynb — Exploración básica del archivo `train.csv`.
 
 ## **Entrega 2**
 
-- `02 - preprocesado.ipynb` — Limpieza y preprocesamiento de `train.csv`
+- 02 - preprocesado.ipynb — Limpieza y preprocesamiento de `train.csv`
 
 #### Enlace al vídeo (Entrega 2)
 - Video en YouTube: https://youtu.be/yKVBxRyjV90
   
+## **Entrega 3**
+
+-  03 - modelo_con_preprocesado_de_texto_y_SVM.ipynb - Primera aproximación de modelado utilizando un pipeline de preprocesado y un modelo SVM.
+-  04 - modelo_con_preprocesado_de_texto_y_RandomForest.ipynb - Segunda aproximación utilizando un preprocesamiento alternativo y un modelo Random Forest.
+-  99 - modelo solución.ipynb - Notebook final que genera la solución oficial enviada a Kaggle.
+
+#### Enlace al vídeo (Entrega 3)
+- Video en YouTube: 
+ 
